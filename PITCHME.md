@@ -1,6 +1,6 @@
-#### dati da riga di comando
+#### Roba da matti
 <br>
-<span style="color:gray">Roba vecchia, molto innovativa</span>
+<span style="color:gray">questo non è Power Point</span>
 <br>
 <span style="color:gray"></span>
 <br>
@@ -16,7 +16,7 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 +++
 
-![](https://github.com/pigreco/test_ppd/blob/master/logo.png)
+![](./logo.png)
 
 +++
 
