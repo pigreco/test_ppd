@@ -11,7 +11,6 @@
 # whoIam
 
 <span style="color:white"> Sono un ingegnere con la passione del GIS</span>
-
 <span style="color:white">Mi occupo rilevamento e trattamento informatico
 dei dati relativi alla terra e all’ambiente.</span>
 
@@ -23,20 +22,6 @@ dei dati relativi alla terra e all’ambiente.</span>
 - repo: [https://github.com/pigreco/OpenData-da-riga-di-comando](https://github.com/pigreco/OpenData-da-riga-di-comando)
 
 ---
-
----
-
-
-## La shell
-
-- è Agile
-- è Scalabile
-- è Estendibile
-- è Ubiquitaria
-
-+++
-
-![](http://www.omgubuntu.co.uk/wp-content/uploads/2017/05/Ubuntu-on-the-Windows-Store.jpg)
 
 +++
 
