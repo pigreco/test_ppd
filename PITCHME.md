@@ -26,7 +26,9 @@ dei dati relativi alla terra e all’ambiente.</span>
 - repo: [https://github.com/pigreco/OpenData-da-riga-di-comando](https://github.com/pigreco/OpenData-da-riga-di-comando)
 
 +++
+
 ---
+
 ## software che uso
 
 - QGIS
