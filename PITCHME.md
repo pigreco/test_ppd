@@ -6,7 +6,7 @@
 <br>
 <span style="color:gray"><a href="https://twitter.com/totofiandaca?lang=it" target="_blank">@totofiandaca</a></span>
 
-+++?image=imgs/osm.png&size=contain
++++
 
 # whoIam
 
@@ -20,12 +20,6 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 - FB: [Facebook](https://www.facebook.com/pigreco314)
 - repo: [https://github.com/pigreco/OpenData-da-riga-di-comando](https://github.com/pigreco/OpenData-da-riga-di-comando)
-
----
-
-+++
-
-## bash è una shell
 
 +++
 
@@ -51,6 +45,6 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 +++
 
-Toto Fiandaca
+Totò Fiandaca
 
 
