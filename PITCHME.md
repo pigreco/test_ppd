@@ -12,6 +12,10 @@
 
 +++
 
+[il mio blog[(https://pigrecoinfinito.wordpress.com/)
+
++++
+
 # whoIam
 
 <span style="color:red">Sono un ingegnere con la passione del GIS</span>
