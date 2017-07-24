@@ -14,7 +14,7 @@
 <span style="color:blue">Mi occupo di rilevamento e trattamento informatico
 dei dati relativi alla terra e all’ambiente.</span>
 
-+++
+---
 
 ![](./logo.png)
 
