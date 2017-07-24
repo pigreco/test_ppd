@@ -11,7 +11,7 @@
 # whoIam
 
 <span style="color:red">Sono un ingegnere con la passione del GIS</span>
-<span style="color:blue">Mi occupo rilevamento e trattamento informatico
+<span style="color:blue">Mi occupo di rilevamento e trattamento informatico
 dei dati relativi alla terra e all’ambiente.</span>
 
 +++
@@ -22,7 +22,7 @@ dei dati relativi alla terra e all’ambiente.</span>
 - repo: [https://github.com/pigreco/OpenData-da-riga-di-comando](https://github.com/pigreco/OpenData-da-riga-di-comando)
 
 +++
-
+---
 ## software che uso
 
 - QGIS
