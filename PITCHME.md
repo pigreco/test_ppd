@@ -8,9 +8,7 @@
 
 +++
 
-il mio canale YouTube
-
-https://goo.gl/W7Oo3W
+[il mio canale YouTube](https://goo.gl/W7Oo3W)
 
 +++
 
