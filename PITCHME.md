@@ -8,6 +8,12 @@
 
 +++
 
+il mio canale YouTube
+
+https://goo.gl/W7Oo3W
+
++++
+
 # whoIam
 
 <span style="color:red">Sono un ingegnere con la passione del GIS</span>
