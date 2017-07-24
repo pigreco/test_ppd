@@ -13,6 +13,9 @@
 <span style="color:red">Sono un ingegnere con la passione del GIS</span>
 <span style="color:blue">Mi occupo di rilevamento e trattamento informatico
 dei dati relativi alla terra e all’ambiente.</span>
+
++++
+
 ![](https://github.com/pigreco/test_ppd/blob/master/logo.png)
 
 +++
