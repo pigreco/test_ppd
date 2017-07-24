@@ -43,35 +43,11 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 +++
 
-## dove sono? 
-
-`pwd` (print working directory)
-
-+++
-
-## cosa è pwd?
-
-`man pwd`
-
-+++
-
 ## Info sui file
 
 - `ls` -l (`-l` è un argomento)
 - `stat`
 - `file`
-
-+++
-
-
-```bash
-# visualizzo
-curl "https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv"
-# scarico il file
-curl "https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv" > artworks.csv
-# scarico il file in modalità silent
-curl -s "https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv" > artworks.csv
-```
 
 +++
 
