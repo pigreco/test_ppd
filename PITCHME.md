@@ -23,21 +23,14 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 +++
 
-## 5 tipi di tool
+## software che uso
 
-- A binary executable
-- A shell builtin
-- An interpreted script
-- A shell function
-- An alias
-
----
-
-## Info sui file
-
-- `ls` -l (`-l` è un argomento)
-- `stat`
-- `file`
+- QGIS
+- PostgreSQL/PostGIS
+- SQLite/SpatiaLite
+- GRASS GIS
+- SAGA GIS
+- ec...
 
 +++
 
