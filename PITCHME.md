@@ -38,11 +38,10 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 +++
 
----
-
 ![](https://github.com/pigreco/test_ppd/blob/master/logo_evolution.png)
 
++++
 
-##Totò Fiandaca
+#Totò Fiandaca
 
 
