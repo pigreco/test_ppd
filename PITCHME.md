@@ -10,7 +10,8 @@
 
 # whoIam
 
-<span style="color:white"> Sono un ingegnere con la passione del GIS</span>
+<span style="color:white"> 
+Sono un ingegnere con la passione del GIS</span>
 <span style="color:white">Mi occupo rilevamento e trattamento informatico
 dei dati relativi alla terra e all’ambiente.</span>
 
@@ -32,10 +33,6 @@ dei dati relativi alla terra e all’ambiente.</span>
 - An alias
 
 ---
-
-# Usiamo la shell
-
-+++
 
 ## Info sui file
 
