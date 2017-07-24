@@ -10,8 +10,7 @@
 
 # whoIam
 
-<span style="color:white"> 
-Sono un ingegnere con la passione del GIS</span>
+<span style="color:red">Sono un ingegnere con la passione del GIS</span>
 <span style="color:white">Mi occupo rilevamento e trattamento informatico
 dei dati relativi alla terra e all’ambiente.</span>
 
