@@ -27,8 +27,6 @@ dei dati relativi alla terra e all’ambiente.</span>
 
 +++
 
----
-
 ## software che uso
 
 - QGIS
