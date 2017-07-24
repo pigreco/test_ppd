@@ -12,7 +12,7 @@
 
 +++
 
-[il mio blog[(https://pigrecoinfinito.wordpress.com/)
+[il mio blog](https://pigrecoinfinito.wordpress.com/)
 
 +++
 
